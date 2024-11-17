@@ -1,6 +1,5 @@
 // p05_03_08_SvojPreprocessorSReguljarnymiVyrazhenijamiISyrymiLiteralami.cpp 
 
-
 #include <cassert>
 #include <filesystem>
 #include <fstream>
